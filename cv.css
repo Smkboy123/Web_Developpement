@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#bloc-page{
+    width: 700px;
+    margin: 0 auto;
+}
+
+header{
+     height: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h2{
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+
+}
+
+.details{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    line-height: 25px;
+}
+
+.details ul{
+    list-style: none;
+}
+img{
+    height: 100px;
+    overflow: hidden;
+    width: 100px;
+}
+
+.Expe{
+    display: flex;
+    justify-content: space-between;
+}
+.Expe ul{
+    width: 450px;
+    margin-bottom: 20px;
+}
+.prof{
+    margin-left: -30px;
+}
